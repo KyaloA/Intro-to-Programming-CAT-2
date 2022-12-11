@@ -1,0 +1,3 @@
+Global scope or global namespace scope is the outermost namespace scope of a program, in which objects, functions, types and templates can be defined.
+Local scope is the region within a program enclosed within a block.
+Function scope is the region within a program enclosed within a function.

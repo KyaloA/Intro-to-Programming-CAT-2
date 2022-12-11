@@ -1,1 +1,1 @@
-# Intro-to-Programming-CAT-2
+This repository contains questions for CAT 2
